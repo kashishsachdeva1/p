@@ -442,7 +442,7 @@ nav ul li:nth-child(5).active~.indicator {
     }
     .right{
         position:fixed;
-        top:91vh;
+        top:80vh;
         bottom:0;
         right:0;
         width: 100%;
