@@ -420,6 +420,9 @@ nav ul li:nth-child(5).active~.indicator {
     {
         margin:0px;
     }
+    nav{
+        position: relative;
+    };
     nav ul li{
        width: 55px;
        height: 55px;
@@ -441,6 +444,7 @@ nav ul li:nth-child(5).active~.indicator {
         position:fixed;
         top:91vh;
         bottom:0;
+        right:0;
         width: 100%;
         margin: 0;
         opacity: 0.9;
